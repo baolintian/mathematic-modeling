@@ -1,1 +1,4 @@
+git add .//点不可少，代表的是整个现在所在的目录！
+git commit -m "content"
+git push -u origin master
 233
